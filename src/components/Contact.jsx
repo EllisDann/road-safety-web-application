@@ -32,10 +32,7 @@ export default function Contact() {
                 <input type="email" placeholder="Your Email" required />
               </div>
               <div className="form-group">
-                <input type="tel" placeholder="Your Phone" />
-              </div>
-              <div className="form-group">
-                <textarea placeholder="Tell us about your project" rows="5" required></textarea>
+                <textarea placeholder="Your Message" rows="5" required></textarea>
               </div>
               <button type="submit">Send Message</button>
             </form>

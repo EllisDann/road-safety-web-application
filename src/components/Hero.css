@@ -1,5 +1,5 @@
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80') center/cover;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/road.webp') center/cover;
   padding: 120px 20px 80px;
   text-align: center;
   color: white;
@@ -29,4 +29,12 @@
 .hero button {
   font-size: 1.1em;
   padding: 15px 30px;
+}
+
+.hero-button {
+  background-color: #1d4ed8 !important;
+}
+
+.hero-button:hover {
+  background-color: #1e40af !important;
 }

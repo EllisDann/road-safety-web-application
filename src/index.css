@@ -23,6 +23,7 @@ a:hover {
 
 body {
   margin: 0;
+  padding: 0;
   min-width: 320px;
   min-height: 100vh;
 }
@@ -49,13 +50,13 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1d4ed8;
+  background-color: #f97316;
   color: white;
   cursor: pointer;
   transition: background-color 0.25s;
 }
 button:hover {
-  background-color: #1e40af;
+  background-color: #ea580c;
 }
 button:focus,
 button:focus-visible {

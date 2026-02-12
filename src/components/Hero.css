@@ -1,0 +1,32 @@
+.hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80') center/cover;
+  padding: 120px 20px 80px;
+  text-align: center;
+  color: white;
+  min-height: 60vh;
+}
+
+.hero-container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.hero h1 {
+  color: white;
+  margin-bottom: 20px;
+  font-size: 3.5em;
+}
+
+.hero p {
+  color: white;
+  font-size: 1.3em;
+  margin-bottom: 40px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero button {
+  font-size: 1.1em;
+  padding: 15px 30px;
+}

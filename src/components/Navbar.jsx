@@ -11,7 +11,6 @@ export default function Navbar() {
 
         <div className="nav-links">
           <a href="#whatwedo">What We Do</a>
-          <a href="#audit">Road Safety Audit</a>
           <a href="#about">About</a>
           <a href="#contact">Contact</a>
         </div>
